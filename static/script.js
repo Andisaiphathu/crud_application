@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const API_URL = 'http://localhost:5000';
+    const API_URL = 'https://crud-application-3-tvcg.onrender.com';
     const userForm = document.getElementById('userForm');
     const userIdField = document.getElementById('userId');
     const nameField = document.getElementById('name');
